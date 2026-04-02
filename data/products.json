@@ -1,1 +1,21 @@
+[
+  {
+    "id": "1",
+    "name": "Custom Design T-Shirt",
+    "slug": "custom-design-tshirt",
+    "category": "custom",
+    "price": "35.00",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "isSale": false
+  },
+  {
+    "id": "2",
+    "name": "Limited Edition Hoodie",
+    "slug": "limited-hoodie",
+    "category": "sale",
+    "price": "55.00",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=800&q=80",
+    "isSale": true
+  }
+]
 
